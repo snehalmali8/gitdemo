@@ -15,6 +15,7 @@ public class Account {
      System.out.println("Account Number: " + accountNumber);
      System.out.println("Account Holder Name: " + name);
      System.out.println("Amount: " + amount);
+        System.out.println("Amount: " + amount);
  }
 
  // Method to be overridden in derived classes
@@ -23,4 +24,4 @@ public class Account {
      System.out.println("No interest calculation for base Account.");
  }
 }
-
+//kaustubh
